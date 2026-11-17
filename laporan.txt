@@ -1,0 +1,3 @@
+<aktor>ACT-01</aktor><qty>3</qty>
+<aktor>ACT-02</aktor><qty>2</qty>
+<aktor>ACT-02</aktor><qty>1</qty>
